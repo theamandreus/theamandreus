@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theamandreus
-- 👀 I’m interested in Progressive UI & AR / VR Design
+- 👀 I’m interested in Progressive AI Design & AR / VR Design
 - 🌱 I’m currently learning Mixed Reality Design & Development 
 - 📫 You can reach out to me on theamandreus@gmail.com
 
